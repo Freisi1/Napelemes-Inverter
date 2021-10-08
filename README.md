@@ -1,0 +1,2 @@
+# Napelemes-Inverter
+Diplomaterv
