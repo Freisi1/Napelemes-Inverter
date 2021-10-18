@@ -1,0 +1,12 @@
+Record=TopLevelDocument|FileName=Block_Design.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Block_Design.SchDoc|Designator=Connectors|SchDesignator=Connectors|FileName=Connectors.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block_Design.SchDoc|Designator=Current Measurement|SchDesignator=Current Measurement|FileName=Hall_sensor.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Hall_sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block_Design.SchDoc|Designator=DSP|SchDesignator=DSP|FileName=DSP.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=DSP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block_Design.SchDoc|Designator=USB|SchDesignator=USB|FileName=USB_and_FTDI.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=USB_and_FTDI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Block_Design.SchDoc|FileName=BoostConverter.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Design.SchDoc|FileName=Display.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Design.SchDoc|FileName=DSP_Supply.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Design.SchDoc|FileName=Gate-Driver.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Design.SchDoc|FileName=Inverter.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Design.SchDoc|FileName=Measurements.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Design.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber= 
