@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Napelem_inverter.PrjPcb]
+   Generated File[Boost.GTO]
+   Generated File[Boost.GTP]
+   Generated File[Boost.GTS]
+   Generated File[Boost.GTL]
+   Generated File[Boost.GBL]
+   Generated File[Boost.GBS]
+   Generated File[Boost.GBP]
+   Generated File[Boost.GBO]
+   Generated File[Boost.GM1]
+   Generated File[Boost.GM2]
+   Generated File[Boost.GM3]
+   Generated File[Boost.RUL]
+   Generated File[Boost.EXTREP]
+   Generated File[Boost.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 17:04:58 On 2021. 10. 22.
